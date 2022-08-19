@@ -19,8 +19,9 @@ I was tasks to create a Python script in Jupyter notebook to analyze the schoole
 
 *** 
 
-![Fantasy](https://user-images.githubusercontent.com/100793119/185686868-427dcab6-3a7f-4010-93a9-0b0b747d8e90.png)
+![education](https://user-images.githubusercontent.com/100793119/185687160-f47975ba-1f81-4a3c-9c5c-866b7e54b031.png)
 
+***
 
 ## Py School Analysis Conclusions
 #### Money Spent Versus Overall Passing Rate<br>
