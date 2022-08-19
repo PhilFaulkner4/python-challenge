@@ -17,7 +17,9 @@ I was tasks to create a Python script in Jupyter notebook to analyze the schoole
 * Create a table that breaks down school performance based on school size (small, medium, or large).
 * Create a table that breaks down school performance based on type of school (district or charter)
 
-*** 
+**** 
+
+*
 
 ![education](https://user-images.githubusercontent.com/100793119/185687160-f47975ba-1f81-4a3c-9c5c-866b7e54b031.png)
 
