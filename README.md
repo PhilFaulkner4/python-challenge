@@ -17,7 +17,10 @@ I was tasks to create a Python script in Jupyter notebook to analyze the schoole
 * Create a table that breaks down school performance based on school size (small, medium, or large).
 * Create a table that breaks down school performance based on type of school (district or charter)
 
-# Below are the results of this analysis:
+*** 
+
+![Fantasy](https://user-images.githubusercontent.com/100793119/185686868-427dcab6-3a7f-4010-93a9-0b0b747d8e90.png)
+
 
 ## Py School Analysis Conclusions
 #### Money Spent Versus Overall Passing Rate<br>
