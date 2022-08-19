@@ -30,3 +30,7 @@ While the logical conclusion might be that the more funds spent for the educatio
 #### Charter versus Public Distric Schools Overall Passing Rate<br>
 In the analysis comparing the Charter versus District schools overall passing rate, the charter school has a significatly higher rate at 95 percent versus the district schools 74 percent. Although the teacher to student ratio is not available for this analysis and could add more overall context.
 
+#### Overall there needs to be additional analysis to examine more metrics around improving the perfoemance of the lower performing schools.  How can the processes and procedures of the top schools be repolicated at the lower performing schools to improve the math and reading abilities of thse students.
+
+
+
