@@ -19,8 +19,6 @@ I was tasks to create a Python script in Jupyter notebook to analyze the schoole
 
 Below are the results of this analysis:
 
-![Money-Crayons.jpg](attachment:Money-Crayons.jpg)
-
 ## Py School Analysis Conclusions
 #### Money Spent Versus Overall Passing Rate<br>
 While the logical conclusion might be that the more funds spent for the education of a student would result in a higher passing percentage rate.  However, the scores for Spending per student analysis proves this to be a false conclusion.<br>  This analysis shows that money is not necessarily an indication of the overall passing rate percentage.  The highest overall passing percentage rate occured with the schools who spent the lessor amounts of money per student with an average spend amount of less tha $621 per student versus the other schools spending greater 19 per student.
